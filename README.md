@@ -1,2 +1,0 @@
-"# mehndi-app" 
-"# Mandi-app" 
